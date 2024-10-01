@@ -7,7 +7,7 @@ int main()
 
   int t;
   cin >> t;
-
+// for test 
   while (t--)
   {
 
